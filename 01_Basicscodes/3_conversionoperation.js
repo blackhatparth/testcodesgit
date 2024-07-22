@@ -75,5 +75,4 @@ num1 =num2 = num3= 2+2 // readibility issue
 
 // Read link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
 
-/* Abstract Operation read link : https://dev.to/iphiee_oma/understand-javascript-abstract-operations-in-7-minutes-1951  /*
-
+/* Abstract Operation read link : https://dev.to/iphiee_oma/understand-javascript-abstract-operations-in-7-minutes-1951  */
