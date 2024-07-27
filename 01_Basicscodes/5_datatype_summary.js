@@ -32,6 +32,8 @@ const myFunction = function(){
 
 console.log(typeof admin);
 
+// link to read : https://262.ecma-international.org/13.0/#sec-type-conversion
+
 // 1.Number: Represents both integer and floating-point numbers. Example: 5, 3.14.
  
 // 2.String: Represents a sequence of characters enclosed in single or double quotes. Example: "Hello, world!".
