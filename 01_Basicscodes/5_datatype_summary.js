@@ -93,3 +93,26 @@ console.log(typeof admin);
 //         Represents large integers that cannot be represented by the Number type.
 //         The range is practically unlimited and depends on available memory.
 
+// **********************************************************
+
+// Stack(Primitive) : copy value, Heap(Non-Primitive): Reference
+
+let myyoutubename = "parthsarthishukladotcom"
+let anothername = myyoutubename;
+anothername = "aradhyashulkadotcom"
+console.log(myyoutubename);
+console.log(anothername);
+
+
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "john@yahoo.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
